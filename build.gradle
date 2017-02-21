@@ -29,7 +29,6 @@ dependencies {
     compile("org.springframework.boot:spring-boot-starter-integration")
     compile("org.springframework.boot:spring-boot-starter-mail")
     compile("org.springframework.cloud:spring-cloud-aws-context:1.1.0.RELEASE")
-    compile("org.springframework.integration:spring-integration-feed")
     compile("org.springframework.integration:spring-integration-mail")
     compile("com.amazonaws:aws-java-sdk:1.11.21")
     compile group: 'joda-time', name: 'joda-time', version: '2.9.4'
